@@ -1,3 +1,7 @@
+package InheritanceChallenge;
+import InheritanceChallenge.Employee;
+import InheritanceChallenge.HourlyEmployee;
+
 public class Main {
     public static void main(String[] args) {
         Worker worker1 = new Worker();

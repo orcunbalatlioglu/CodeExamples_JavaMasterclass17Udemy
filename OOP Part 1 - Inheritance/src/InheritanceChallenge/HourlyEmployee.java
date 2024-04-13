@@ -1,5 +1,8 @@
+package InheritanceChallenge;
+import InheritanceChallenge.Employee;
+
 import java.time.LocalDate;
-public class HourlyEmployee extends Employee{
+public class HourlyEmployee extends Employee {
     private double hourlyPayRate;
 
     public HourlyEmployee(){

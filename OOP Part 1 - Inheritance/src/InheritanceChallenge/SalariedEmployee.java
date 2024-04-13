@@ -1,3 +1,6 @@
+package InheritanceChallenge;
+import InheritanceChallenge.Employee;
+
 import java.time.LocalDate;
 public class SalariedEmployee extends Employee {
 
